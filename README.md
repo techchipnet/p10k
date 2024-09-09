@@ -59,4 +59,8 @@ p10k configure
 ```
 Now you can configure your theme as your choice. p10k will prompt some questions, and you can choose the answer based on your personal preferences.
 You can check the following video for configure this theme
+### Video Demo
+[![P10K Demo](https://img.youtube.com/vi/j9IAvIAOVSc/0.jpg)](https://www.youtube.com/watch?v=j9IAvIAOVSc)
+
+### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
 
